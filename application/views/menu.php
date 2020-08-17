@@ -23,7 +23,6 @@ if (isset($_GET['Text'])){
 }
 
 ?>
-
 <div class="d-none d-md-block">
     <div class="d-flex bd-highlight mb-3">
         <div class ="mr-auto bd-highlight">
